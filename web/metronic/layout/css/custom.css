@@ -1,0 +1,140 @@
+/* here you can put your own css to customize and override the theme */
+
+/* Tickets */
+
+a.newticket, input.ticket {
+    display: inline-block;
+    color: #fff !important;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    margin: 5px 5px 5px 0;
+    cursor: pointer;
+    padding: 5px 9px;
+    background-color: dodgerblue;
+    border-radius: 5px;
+}
+
+a.newticket:hover, input.ticket:hover {
+    background-color: royalblue;
+}
+
+a.closeticket {
+    display: inline-block;
+    color: #fff !important;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    margin: 5px 5px 5px 0;
+    cursor: pointer;
+    padding: 5px 9px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+a.closeticket:hover {
+    background-color: darkred;
+}
+
+/*
+.control-label {
+    display: block;
+}
+
+.help-block {
+    font-size: 12px;
+    color: darkred;
+}
+
+.form-control {
+    font-size: 1em;
+    border: 1px solid;
+    border-color: #666 #ccc #ccc #666;
+    line-height: normal;
+    width: 100%;
+}
+*/
+
+table.tickets {
+    width: 100%;
+}
+
+table.tickets td, table.tickets th {
+    padding: 5px;
+    font-size: .8875em;
+}
+
+table.tickets th {
+    background-color: #888;
+    border-bottom: 1px solid #333;
+    color: #FFF;
+    font-weight: 400;
+    text-align: left;
+}
+
+table.tickets th a {
+    color: #FFF;
+}
+
+table.tickets td {
+    background-color: #FFF;
+    border-bottom: 1px solid #EBEBEB;
+}
+
+table.tickets td a:hover {
+    color: #333333;
+}
+
+.clientticketreplyheader {
+    background-color: #EBEBEB;
+    color: #333;
+    border-top: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+    border-bottom: 1px solid #EBEBEB;
+    border-left: 1px solid #CCC;
+}
+
+.clientticketreply {
+    background-color: #F5F5F5;
+    margin: 0 0 10px;
+    padding: 10px;
+    border-right: 1px solid #CCC;
+    border-bottom: 1px solid #CCC;
+    border-left: 1px solid #CCC;
+    font-size: 13px;
+}
+
+.adminticketreplyheader {
+    background-color: #CFE6FF;
+    color: #333;
+    border-top: 1px solid #CAE6FF;
+    border-right: 1px solid #CAE6FF;
+    border-bottom: 1px solid #CAE6FF;
+    border-left: 1px solid #CAE6FF;
+}
+
+.adminticketreply {
+    background-color: #EEF6FF;
+    padding: 10px;
+    margin: 0 0 10px;
+    border-right: 1px solid #CAE6FF;
+    border-bottom: 1px solid #CAE6FF;
+    border-left: 1px solid #CAE6FF;
+    font-size: 13px;
+}
+
+tr.ticketRow {
+
+}
+
+tr.ticketRow td {
+    cursor: pointer;
+}
+
+tr.ticketRow:hover td {
+    background-color: #ccc;
+}

@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="evercookie.App"
+             >
+    <Application.Resources>
+        
+    </Application.Resources>
+</Application>
+=======
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="evercookie.App"
+             >
+    <Application.Resources>
+        
+    </Application.Resources>
+</Application>
+>>>>>>> eb2b5f487357f4715e1960350c1c44eb44992cae

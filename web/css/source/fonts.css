@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Conv_FiraSans-SemiBold';
+    src: url('../fonts/FiraSans-SemiBold.eot');
+    src: local('☺'), url('../fonts/FiraSans-SemiBold.woff') format('woff'), url('../fonts/FiraSans-SemiBold.ttf') format('truetype'), url('../fonts/FiraSans-SemiBold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_FiraSans-Light';
+    src: url('../fonts/FiraSans-Light.eot');
+    src: local('☺'), url('../fonts/FiraSans-Light.woff') format('woff'), url('../fonts/FiraSans-Light.ttf') format('truetype'), url('../fonts/FiraSans-Light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_8170';
+    src: url('../fonts/8170.eot');
+    src: local('☺'), url('../fonts/8170.woff') format('woff'), url('../fonts/8170.ttf') format('truetype'), url('../fonts/8170.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_FiraSans-Bold';
+    src: url('../fonts/FiraSans-Bold.eot');
+    src: local('☺'), url('../fonts/FiraSans-Bold.woff') format('woff'), url('../fonts/FiraSans-Bold.ttf') format('truetype'), url('../fonts/FiraSans-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_8162';
+    src: url('../fonts/8162.eot');
+    src: local('☺'), url('../fonts/8162.woff') format('woff'), url('../fonts/8162.ttf') format('truetype'), url('../fonts/8162.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_FiraSans-Medium';
+    src: url('../fonts/FiraSans-Medium.eot');
+    src: local('☺'), url('../fonts/FiraSans-Medium.woff') format('woff'), url('../fonts/FiraSans-Medium.ttf') format('truetype'), url('../fonts/FiraSans-Medium.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
